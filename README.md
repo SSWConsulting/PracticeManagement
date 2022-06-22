@@ -1,14 +1,12 @@
-# Overview 
-This template provides users with a default set of issue templates and labels to work with.
+# Purpose
+This repository is used to manage work aimed at improving SSW's testing and DevOps practices.
 
-## Issue Templates
+# Testing practice
+[Lee Hawkins](https://www.ssw.com.au/people/lee-hawkins) leads the effort to improve testing practice both within SSW and also for clients.
 
-To see the reasoning behind these issue templates see the rule:
-https://www.ssw.com.au/rules/github-issue-templates
+The tasks related to testing practice work are managed in the [Testing Kanban board](https://github.com/SSWConsulting/SSW.PracticeManagement/projects/1).
 
-## Labels
+# DevOps practice
+[Matt Wicks](https://www.ssw.com.au/people/matt-wicks) leads the effort to improve DevOps practice within SSW.
 
-To see the reasoning behind these labels refer to the rule: 
-https://www.ssw.com.au/rules/labels-in-github
-
-To add the default labels to your repo use Labeler. See Luke Parker's repo for instructions on how to set it up https://github.com/Hona/LabelTemplateRepository#readme
+The tasks related to DevOps practice work are managed in the [DevOps Kanban board](https://github.com/SSWConsulting/SSW.PracticeManagement/projects/2).
